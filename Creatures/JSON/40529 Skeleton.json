@@ -1,0 +1,697 @@
+{
+  "wcid": 40529,
+  "weenieType": 10,
+  "attributes": {
+    "strength": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 50
+    },
+    "endurance": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 50
+    },
+    "coordination": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 50
+    },
+    "quickness": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 50
+    },
+    "focus": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 50
+    },
+    "self": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 30
+    },
+    "health": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 25,
+      "current": 50
+    },
+    "stamina": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 50,
+      "current": 50
+    },
+    "mana": {
+      "cp_spent": 0,
+      "level_from_cp": 0,
+      "init_level": 30,
+      "current": 30
+    }
+  },
+  "boolStats": [
+    {
+      "key": 1,
+      "value": 1
+    },
+    {
+      "key": 19,
+      "value": 0
+    }
+  ],
+  "intStats": [
+    {
+      "key": 1,
+      "value": 16
+    },
+    {
+      "key": 6,
+      "value": -1
+    },
+    {
+      "key": 7,
+      "value": -1
+    },
+    {
+      "key": 16,
+      "value": 32
+    },
+    {
+      "key": 93,
+      "value": 6292504
+    },
+    {
+      "key": 95,
+      "value": 3
+    },
+    {
+      "key": 307,
+      "value": 0
+    },
+    {
+      "key": 308,
+      "value": 0
+    },
+    {
+      "key": 313,
+      "value": 0
+    },
+    {
+      "key": 314,
+      "value": 0
+    },
+    {
+      "key": 315,
+      "value": 0
+    },
+    {
+      "key": 316,
+      "value": 0
+    },
+    {
+      "key": 370,
+      "value": 0
+    },
+    {
+      "key": 371,
+      "value": 0
+    },
+    {
+      "key": 372,
+      "value": 0
+    },
+    {
+      "key": 373,
+      "value": 0
+    },
+    {
+      "key": 374,
+      "value": 0
+    },
+    {
+      "key": 375,
+      "value": 0
+    },
+    {
+      "key": 376,
+      "value": 0
+    },
+    {
+      "key": 377,
+      "value": 0
+    },
+    {
+      "key": 378,
+      "value": 0
+    },
+    {
+      "key": 379,
+      "value": 0
+    },
+    {
+      "key": 381,
+      "value": 0
+    },
+    {
+      "key": 382,
+      "value": 0
+    },
+    {
+      "key": 383,
+      "value": 0
+    },
+    {
+      "key": 384,
+      "value": 0
+    },
+    {
+      "key": 386,
+      "value": 0
+    },
+    {
+      "key": 387,
+      "value": 0
+    },
+    {
+      "key": 388,
+      "value": 0
+    },
+    {
+      "key": 389,
+      "value": 0
+    }
+  ],
+  "didStats": [
+    {
+      "key": 1,
+      "value": 33554521
+    },
+    {
+      "key": 2,
+      "value": 150994981
+    },
+    {
+      "key": 3,
+      "value": 536870942
+    },
+    {
+      "key": 8,
+      "value": 100669124
+    },
+    {
+      "key": 22,
+      "value": 872415269
+    }
+  ],
+  "iidStats": [],
+  "floatStats": [
+    {
+      "key": 13,
+      "value": 1.0
+    },
+    {
+      "key": 14,
+      "value": 1.0
+    },
+    {
+      "key": 15,
+      "value": 1.0
+    },
+    {
+      "key": 16,
+      "value": 1.0
+    },
+    {
+      "key": 17,
+      "value": 1.0
+    },
+    {
+      "key": 18,
+      "value": 1.0
+    },
+    {
+      "key": 19,
+      "value": 1.0
+    },
+    {
+      "key": 39,
+      "value": 1.2
+    },
+    {
+      "key": 54,
+      "value": 3.0
+    },
+    {
+      "key": 64,
+      "value": 1.0
+    },
+    {
+      "key": 65,
+      "value": 1.0
+    },
+    {
+      "key": 66,
+      "value": 1.0
+    },
+    {
+      "key": 67,
+      "value": 1.0
+    },
+    {
+      "key": 68,
+      "value": 1.0
+    },
+    {
+      "key": 69,
+      "value": 1.0
+    },
+    {
+      "key": 70,
+      "value": 1.0
+    }
+  ],
+  "int64Stats": [],
+  "stringStats": [
+    {
+      "key": 1,
+      "value": "Skeleton"
+    },
+    {
+      "key": 15,
+      "value": "The skeletal remains of poor deceased soul."
+    }
+  ],
+  "skills": [
+    {
+      "key": 31,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 149,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 46,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 0,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 44,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 0,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 33,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 149,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 45,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 0,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 15,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 170,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 16,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 149,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 6,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 0,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 7,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 0,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 41,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 0,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 43,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 149,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    },
+    {
+      "key": 34,
+      "value": {
+        "level_from_pp": 0,
+        "last_used_time": 0.0,
+        "init_level": 149,
+        "pp": 0,
+        "resistance_of_last_check": 0,
+        "sac": 2
+      }
+    }
+  ],
+  "spellbook": [
+    {
+      "key": 61,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 80,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 89,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 95,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 523,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 524,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 525,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 625,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 626,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 627,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 649,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 650,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 651,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 1053,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 1156,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 1324,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 1325,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 1340,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 1341,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 1342,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 1369,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 1393,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 1394,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 1395,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 1396,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 1417,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 1443,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 1465,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 1466,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 1468,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 2059,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 2087,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 2101,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 2106,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 2116,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 2130,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 2170,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 2745,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 4395,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 4624,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    },
+    {
+      "key": 4712,
+      "value": {
+        "casting_likelihood": 2.0199999809265137
+      }
+    }
+  ],
+  "posStats": [
+    {
+      "key": 8040,
+      "value": {
+        "frame": {
+          "origin": {
+            "x": 111.964,
+            "y": 123.356,
+            "z": 90.003
+          },
+          "angles": {
+            "w": 0.989022,
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.147769
+          }
+        },
+        "objcell_id": 836108553
+      }
+    }
+  ],
+  "changelog": [
+    {
+      "created": "2020-09-19T09:50:51.9580076Z",
+      "author": "ACE.Adapter",
+      "comment": "Weenie exported from ACEmulator world database using ACE.Adapter"
+    }
+  ],
+  "isDone": false
+}
